@@ -1,0 +1,4 @@
+name: ServerExtra
+version: '${version}'
+main: cc.sakurua.serverextra.ServerExtra
+api-version: '1.20'
